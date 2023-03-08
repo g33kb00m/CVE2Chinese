@@ -14,8 +14,8 @@ blog: https://geekboom.org
 
 ## github 中的cve2chinese.db 是个样本，每天的更新数据通过readme的链接下载。
 
-### 下载链接: https://gofile.io/d/PTZ8jU
+### 下载链接: https://gofile.io/d/lBqqsc
 
-### MD5 : 54a8bb758c5a11f623680b0a2dfef1a1
+### MD5 : db65f28b3df77ad9f546bc7f60044a73
 
 
